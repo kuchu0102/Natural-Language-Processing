@@ -6,6 +6,7 @@ This paper presents a novel approach to tackle the sentiment polarity categoriza
 The source code has been kept into two files. One for the Machine learning analysis part and other for the deep learning analysis part.
 
 Process : 
+
 ![image](https://user-images.githubusercontent.com/61591442/153451075-f55823c9-53ef-49f3-be6f-0019e10400c3.png)
 
 Final Result Comparison:
