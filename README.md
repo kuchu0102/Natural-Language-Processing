@@ -1,4 +1,4 @@
-# Natural-Language-Processing
+# Natural Language Processing (NLP)
 Machine and Deep Learning Classification for Sentiment Analysis On Food Reviews
 
 The advent of web has led to increased customer interaction directly with the businesses and will be an important asset for sentiment analysis as future holds. 
